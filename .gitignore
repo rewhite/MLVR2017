@@ -92,3 +92,5 @@ ENV/
 
 *.txt
 *.json
+
+Tensor_MNIST_Easy/MNIST_data/
